@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RzcGIcQzvPzlYziphjSpvII6Gm5Ml89eMKCLLszl3/sxZMBUvyoIRqVc3e2Wc85rUkYHeHFbdC5OROAMu61vPQ==",
+  "dgSpecHash": "BvllTEULDaOeR3HNhVvobQyQp2edWnB3c1tx48UC2B3eWDbpV/caoCkwnim5K+qCh1s7HoIpVLkNFEhxlamuvg==",
   "success": true,
-  "projectFilePath": "C:\\src\\csharp\\WordWebCounter\\WordWebCounter.csproj",
+  "projectFilePath": "C:\\projects\\csharp\\WordWebCounter\\WordWebCounter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
