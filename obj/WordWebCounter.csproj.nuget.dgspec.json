@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\src\\csharp\\WordWebCounter\\WordWebCounter.csproj": {}
+    "C:\\projects\\csharp\\WordWebCounter\\WordWebCounter.csproj": {}
   },
   "projects": {
-    "C:\\src\\csharp\\WordWebCounter\\WordWebCounter.csproj": {
+    "C:\\projects\\csharp\\WordWebCounter\\WordWebCounter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\src\\csharp\\WordWebCounter\\WordWebCounter.csproj",
+        "projectUniqueName": "C:\\projects\\csharp\\WordWebCounter\\WordWebCounter.csproj",
         "projectName": "WordWebCounter",
-        "projectPath": "C:\\src\\csharp\\WordWebCounter\\WordWebCounter.csproj",
-        "packagesPath": "C:\\Users\\yumur\\.nuget\\packages\\",
-        "outputPath": "C:\\src\\csharp\\WordWebCounter\\obj\\",
+        "projectPath": "C:\\projects\\csharp\\WordWebCounter\\WordWebCounter.csproj",
+        "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\csharp\\WordWebCounter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\yumur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
